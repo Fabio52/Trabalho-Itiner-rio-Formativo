@@ -1,0 +1,14 @@
+h1{
+    background: fixed;
+    background-color: dodgerblue;
+    border-radius: 13px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+li{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}

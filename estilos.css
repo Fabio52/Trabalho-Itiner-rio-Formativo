@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: dodgerblue;
+}
+
+p{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    align-self: center;
+}
+li{
+    display: flex;
+    justify-content: center;
+}
